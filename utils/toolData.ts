@@ -1,3 +1,4 @@
+// utils/toolData.ts
 export const tools = [
     {
       id: '1',
