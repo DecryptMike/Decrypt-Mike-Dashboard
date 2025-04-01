@@ -12,13 +12,13 @@ In This Project, I Leveraged Modern Web Development Tools (Next.js, React, Tailw
 </h4>
 
 <h2 align="left">
-    Regular Mode
+    --Regular Mode--
 </h2>
   <img src="Decrypt Mike Vercel App.jpg" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
 </p>
 <br>
 <h2 align="left">
-    Hacker Mode
+    --Hacker Mode--
 </h2>
 <p align="center">
   <img src="Decrypt Mike Vercel H4ck3r Mode App.jpg" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
