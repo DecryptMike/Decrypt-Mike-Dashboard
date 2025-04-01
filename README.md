@@ -13,7 +13,8 @@ In This Project, I Leveraged Modern Web Development Tools (Next.js, React, Tailw
 
 ## 📄 License
 
-This repository is licensed under the (**Default Copyright Law**) which prohibits the redistribution or reuse of its content. <br> However, others are welcome to explore, gain insights, and utilize the materials solely for **personal** learning and reference purposes.
+* This repository is licensed under the (**Default Copyright Law**) which prohibits the redistribution or reuse of its content. <br>
+* However, others are welcome to explore, gain insights, and utilize the materials solely for **personal** learning and reference purposes.
 
 <h2 align="left">
     --Regular Mode--
