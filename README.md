@@ -11,6 +11,10 @@
 In This Project, I Leveraged Modern Web Development Tools (Next.js, React, Tailwind CSS, And Vercel) To Build A Dynamic And Visually Engaging Dashboard With A Strong Cybersecurity Theme. Professional Tactics Like User-Centered Design, Responsive Layout, Modular Code Structure, And Performance Optimization Were Employed To Ensure That The Dashboard Is Not Only Visually Appealing But Also Efficient And Scalable For Future Updates.
 </h4>
 
+## 📄 License
+
+This repository is licensed under the (**Default Copyright Law**) which prohibits the redistribution or reuse of its content. <br> However, others are welcome to explore, gain insights, and utilize the materials solely for **personal** learning and reference purposes.
+
 <h2 align="left">
     --Regular Mode--
 </h2>
