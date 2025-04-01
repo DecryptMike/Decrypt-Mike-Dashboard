@@ -5,3 +5,7 @@
 <h3 align="center">
     🛡️ Decrypt Mike Dashboard
 </h3>
+
+<p align="center">
+  <img src="Decrypt Mike Vercel App.jpg" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
+</p>
