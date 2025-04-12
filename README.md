@@ -1,5 +1,6 @@
 ![Next.js](https://img.shields.io/badge/Built%20with-Next.js-black?logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black)
+![License](https://img.shields.io/github/license/DecryptMike/DecryptMike-Password-Manager)
 ![Tailwind](https://img.shields.io/badge/Styled%20with-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Hosted%20on-Vercel-black?logo=vercel)
 ![Cyberpunk](https://img.shields.io/badge/UI-Cyberpunk%2FMatrix-9D00FF)
