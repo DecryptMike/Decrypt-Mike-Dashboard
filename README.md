@@ -95,6 +95,10 @@ Do not use it to store sensitive or production passwords without enhancements.
 
 ---
 
+## 💻 Built by [@DecryptMike](https://github.com/DecryptMike)
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20for-Cybersecurity-blue?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/Made%20By-DecryptMike-limegreen?style=for-the-badge&logo=github"/>
