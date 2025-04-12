@@ -12,28 +12,88 @@
     🛡️ Decrypt Mike Dashboard
 </h2>
 
-<h4 align="center">
-    The Decrypt Mike Dashboard Is A Modern, Interactive Platform Showcasing Cyber Security Tools. Featuring A Cyber Punk Design And Matrix Inspired Visuals, It Provides Users With A Set Of Practical, Hands-On-Tools Like Port Scanners And Password Crackers. It Serves As A Fictional Functional Toolbox For Cyber Security Enthusiasts And Professionals.<br><br>
-In This Project, I Leveraged Modern Web Development Tools (Next.js, React, Tailwind CSS, And Vercel) To Build A Dynamic And Visually Engaging Dashboard With A Strong Cybersecurity Theme. Professional Tactics Like User-Centered Design, Responsive Layout, Modular Code Structure, And Performance Optimization Were Employed To Ensure That The Dashboard Is Not Only Visually Appealing But Also Efficient And Scalable For Future Updates.
-</h4>
+<h5 align="center">
+    The Decrypt Mike Dashboard is a sleek, interactive web application designed to showcase custom-built cybersecurity tools within a futuristic, Matrix-inspired environment. It serves as a functional simulation of a hacker's control panel, featuring tools like port scanners, password crackers, and threat visualizers—all wrapped in a dark, neon-glow cyberpunk aesthetic.
+</h5>
 
-## 📄 License
+---
 
-* This repository is licensed under the (**Default Copyright Law**) which prohibits the redistribution or reuse of its content. <br>
-* However, others are welcome to explore, gain insights, and utilize the materials solely for **personal** learning and reference purposes.
+## ⚙️ Tech Stack
 
-<h2 align="left">
-    --Regular Mode--
-</h2>
-  <img src="Decrypt Mike Vercel App.jpg" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
-</p>
-<br>
-<h2 align="left">
-    --Hacker Mode--
-</h2>
+| Layer     | Technology                    |
+|-----------|-------------------------------|
+| Framework | [Next.js](https://nextjs.org/)|
+| Frontend  | [React](https://reactjs.org/) |
+| Styling   | [Tailwind CSS](https://tailwindcss.com/) |
+| Hosting   | [Vercel](https://vercel.com/) |
+| Theme     | Matrix / Cyberpunk UI         |
+
+---
+
+## 🎯 Purpose
+
+I built this dashboard to visually and functionally represent my cybersecurity skills in a unique and interactive format. It blends design with functionality, demonstrating my ability to ship visually clean, modular code while embracing the hacker/cyberpunk theme that defines my style.
+
+---
+
+## 📸 Preview
+
 <p align="center">
-  <img src="Decrypt Mike Vercel H4ck3r Mode App.jpg" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
+  <img src="Decrypt Mike Vercel App.jpg" width="45%" alt="Decrypt Mike App Screenshot">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Decrypt Mike Vercel H4ck3r Mode App.jpg" width="45%" alt="Decrypt Mike Hacker Mode Screenshot">
 </p>
+
+---
+
+## 📁 Folder Structure
+
+```
+decrypt-mike-dashboard/
+├── components/         # Reusable UI components
+├── pages/              # Next.js routing pages
+├── public/             # Static assets (images, favicon)
+├── styles/             # Tailwind CSS configurations
+├── README.md
+└── tailwind.config.js
+```
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/DecryptMike/Decrypt-Mike-Dashboard.git
+
+# Navigate to the project directory
+cd Decrypt-Mike-Dashboard
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser to see the dashboard in action.
+
+---
+
+## 📄 Why I Built It
+
+I built the Decrypt Mike Dashboard to showcase my frontend web development skills through a cyberpunk-themed interface that reflects my cybersecurity background. This project allowed me to create a fictional but fully interactive platform where users can explore simulated cybersecurity tools—combining creative UI/UX design with practical, hands-on coding techniques using Next.js, React, and Tailwind CSS.
+
+---
+
+## ⚠️ Legal Disclaimer
+
+This tool is intended for **educational and authorized personal use only**.  
+Do not use it to store sensitive or production passwords without enhancements.
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20for-Cybersecurity-blue?style=for-the-badge&logo=python"/>
