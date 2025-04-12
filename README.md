@@ -1,10 +1,8 @@
-![Next.js](https://img.shields.io/badge/Built%20with-Next.js-000?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Tailwind CSS](https://img.shields.io/badge/Styled%20with-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Hosted on Vercel](https://img.shields.io/badge/Hosted%20on-Vercel-000?style=for-the-badge&logo=vercel)
-![UI Theme](https://img.shields.io/badge/UI-Cyberpunk%2FMatrix-9D00FF?style=for-the-badge)
-![Built for](https://img.shields.io/badge/Built%20for-Cybersecurity-0e76a8?style=for-the-badge&logo=github)
-![Made by](https://img.shields.io/badge/Made%20by-DecryptMike-brightgreen?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Built%20with-Next.js-black?logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Styled%20with-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Hosted%20on-Vercel-black?logo=vercel)
+![Cyberpunk](https://img.shields.io/badge/UI-Cyberpunk%2FMatrix-9D00FF)
 
 <p align="center">
   <img src="DecryptMikeLogo.png" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
